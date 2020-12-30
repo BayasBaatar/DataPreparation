@@ -1,0 +1,38 @@
+{
+   "config": {
+      "data_source": "csv",
+      "list_of_datapoint": {
+         "mandatory": [
+            "Employee_ID",
+            "Position",
+            "is_active",
+            "Education",
+            "Job_Satisfaction",
+            "Monthly_Income",
+            "Salary_Scale",
+            "Performance_Scale",
+            "Percent_Salary_Hike",
+            "Performance_Rating",
+            "Total_Working_Years",
+            "Start_Date"
+         ],
+         "optional": [
+            "Department",
+            "Age",
+            "Gender",
+            "Education_Field",
+            "Marital_Status",
+            "Standard_Hours",
+            "Hourly_Rate",
+            "Monthly_Rate",
+            "Work_Life_Balance",
+            "Years_At_Company"
+         ]
+      }
+   }
+}
+
+
+
+
+
